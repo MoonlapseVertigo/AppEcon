@@ -1,0 +1,14 @@
+Thu Feb 27 15:22:46 CET 2020 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Thu Feb 27 15:22:48 CET 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0170-8707-4713-ffff953e562c 
+on database directory /Users/nikos/NetBeansProjects/Econometrics_v2/ecoDB with class loader sun.misc.Launcher$AppClassLoader@66d3c617 
+Loaded from file:/Users/nikos/GlassFish_Server/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=/Users/nikos/GlassFish_Server/javadb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.3
+derby.system.home=/Users/nikos/NetBeansProjects/Econometrics_v2
+Database Class Loader started - derby.database.classpath=''
